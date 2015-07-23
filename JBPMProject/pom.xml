@@ -6,6 +6,13 @@
   <artifactId>JBPMProject</artifactId>
   <version>1.0</version>
   <name>JBPMProject</name>
+  <dependencies>
+    <dependency>
+      <groupId>com.grade</groupId>
+      <artifactId>gradejar</artifactId>
+      <version>1</version>
+    </dependency>
+  </dependencies>
   <build>
     <plugins>
       <plugin>
